@@ -1,3 +1,3 @@
-from day6.main import *
+from day7.main import *
 
 print("response: " + str(part_two()))
